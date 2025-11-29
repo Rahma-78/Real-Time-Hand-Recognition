@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 # Real-Time Hand Gesture Recognition
 This project implements a real-time hand gesture recognition system using computer vision and machine learning techniques.
