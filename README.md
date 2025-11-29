@@ -1,3 +1,9 @@
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # Real-Time Hand Gesture Recognition
 This project implements a real-time hand gesture recognition system using computer vision and machine learning techniques.
 
@@ -14,25 +20,23 @@ The project uses OpenCV for video capture and MediaPipe for hand detection, comb
 - **Multiple ML models comparison** (SVM, Random Forest, KNN, etc.)
 - **Comprehensive evaluation metrics** (accuracy, F1-score, precision, recall)
 
+
 ## 🎥 Demo
 
-![DEMO Video](data/DEMO.mp4)
-
-*Watch the demo video to see the real-time hand gesture recognition system in action.*
-
+[▶️ **Click here to watch the full demo video**](https://drive.google.com/file/d/1f_LoaRfVtp_51Yo8v2JlwGalIsvZYi3a/view?usp=sharing)
 ## 📁 Project Structure
 
-```
-├── src/
-│   └── real_time_demo.py          # Main demo script
+```bash
 ├── models/
-│   └── svm_winner.pkl            # Pre-trained SVM model
+│   └── svm_winner.pkl          # Pre-trained optimized SVM model
 ├── notebooks/
-│   └── Project_ML.ipynb          # Jupyter notebook for model training/analysis
-├── README.md                     # This README file
-├── requirements.txt              # Python dependencies
+│   └── Project_ML.ipynb        # Data analysis, training, and evaluation
+├── src/
+│   └── real_time_demo.py       # Main application script
+├── README.md                   # Project documentation
+└── requirements.txt            # Python dependencies
 
-
+```
 ## 🚀 Installation
 
 ### Prerequisites
