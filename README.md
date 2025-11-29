@@ -27,14 +27,15 @@ The project uses OpenCV for video capture and MediaPipe for hand detection, comb
 ## 📁 Project Structure
 
 ```bash
-├── models/
-│   └── svm_winner.pkl          # Pre-trained optimized SVM model
-├── notebooks/
-│   └── Project_ML.ipynb        # Data analysis, training, and evaluation
 ├── src/
-│   └── real_time_demo.py       # Main application script
-├── README.md                   # Project documentation
-└── requirements.txt            # Python dependencies
+│   ├── model/
+│   │   └── best_model.keras      # Trained model weights
+│   ├── notebooks/
+│   │   └── training_notebook.ipynb   # Jupyter notebook for training
+│   └── real_time_demo.py         # Main application script
+├── requirements.txt              # Python dependencies
+└── README.md                     # Project documentation
+
 
 ```
 ## 🚀 Installation
