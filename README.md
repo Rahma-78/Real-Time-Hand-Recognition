@@ -14,6 +14,12 @@ The project uses OpenCV for video capture and MediaPipe for hand detection, comb
 - **Multiple ML models comparison** (SVM, Random Forest, KNN, etc.)
 - **Comprehensive evaluation metrics** (accuracy, F1-score, precision, recall)
 
+## 🎥 Demo
+
+![DEMO Video](data/DEMO.mp4)
+
+*Watch the demo video to see the real-time hand gesture recognition system in action.*
+
 ## 📁 Project Structure
 
 ```
